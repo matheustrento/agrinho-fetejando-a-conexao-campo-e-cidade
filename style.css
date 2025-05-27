@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+background-color:white;
+color: black;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+
+.cabecalho-imagem{
+     width: 70%;
+
+}
+.cabecalho-imagem{
+    display: inline-block;
+    margin: 0 24px;
+    font-size: 24px;
+}
+.imagem-agrinhinho {
+    width: 70%;
+
+}
+.cientistas-imagem{
+    width: 70%;
+}
+.agrinho-div-conteudo{
+
+    width: 100%;
+}
+.cor-de-fundo{
+
+background-color:rgb(220, 213, 235);
+}
+
+.margem{
+    margin: 180px;
+}
+
+.imagem-2{
+    width: 70%;
+}
+
