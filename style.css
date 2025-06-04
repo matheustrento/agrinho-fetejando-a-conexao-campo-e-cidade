@@ -12,13 +12,13 @@ padding: 24px 0;
 }
 
 .cabecalho-imagem{
-     width: 70%;
+     width: 40%;
 
 }
 .cabecalho-imagem{
     display: inline-block;
-    margin: 0 24px;
-    font-size: 24px;
+    margin: 0 44px;
+    font-size: 44px;
 }
 .imagem-agrinhinho {
     width: 70%;
@@ -33,14 +33,14 @@ padding: 24px 0;
 }
 .cor-de-fundo{
 
-background-color:rgb(220, 213, 235);
+background-color:rgb(71, 22, 177);
 }
 
 .margem{
-    margin: 180px;
+    margin: 18px;
 }
 
 .imagem-2{
-    width: 70%;
+    width: 80%;
 }
 
