@@ -11,8 +11,15 @@ align-items: center;
 padding: 24px 0;
 }
 
+.agrinho-texto{
+    margin: 100px;
+    justify-content: center;
+
+}
+
+
 .cabecalho-imagem{
-     width: 30%;
+     width: 50%;
      background-color: rgb(200, 200, 233);
 
 }
@@ -22,13 +29,16 @@ padding: 24px 0;
     font-size: 44px;
 }
 .imagem-agrinhinho {
+    margin: 120px;
     width: 70%;
 
 }
 .cientistas-imagem{
+    margin: 110px; ;
     width: 70%;
 }
 .agrinho-div-conteudo{
+    margin: 40px;
 
     width: 100%;
 }
@@ -44,4 +54,20 @@ background-color:rgb(200, 200, 233);
 .imagem-2{
     width: 80%;
 }
+
+.rodape{
+    text-align: center;
+    margin: 5em 3em;
+    }
+    .rodape-lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 1em;
+    }
+    .rodape-texto{
+    margin: 1em 0;
+    color: var(--cinza-secundario);
+    font-size: 14px;
+    }
 
